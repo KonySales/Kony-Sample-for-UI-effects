@@ -1,0 +1,31 @@
+{
+    "AS_Button_0aca90226a1f4565a7f5d7740f0dfe1c": {
+        "id": "AS_Button_0aca90226a1f4565a7f5d7740f0dfe1c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmHotelsList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "3440be60cceb47b58a5008b5720aaa81"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__7658dab5fb7d4d838b4e6a4dcaf21484",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "docSearchResultsMode=\"list\";\nfrmHotelsList.btnMap.skin = sknBtnMapNonFocus;\nfrmHotelsList.btnList.skin = sknBtnFocus;",
+            "parentId": null,
+            "callbackType": null
+        }, {
+            "id": "INVOKE_FUNCTION___8c524340c1144b3aa5a02c1e47bcc41d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "transform_Card",
+            "display": "transform_Card",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

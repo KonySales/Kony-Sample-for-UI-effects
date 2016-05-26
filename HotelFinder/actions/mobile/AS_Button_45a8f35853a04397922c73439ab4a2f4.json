@@ -1,0 +1,27 @@
+{
+    "AS_Button_45a8f35853a04397922c73439ab4a2f4": {
+        "id": "AS_Button_45a8f35853a04397922c73439ab4a2f4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmHotelVideo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "858049ff9ad24089839d547a0cc18037"
+        },
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___09f96832b87b4a23b393fb2a27d81033",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmHotelsList",
+            "formKUID": "3440be60cceb47b58a5008b5720aaa81",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

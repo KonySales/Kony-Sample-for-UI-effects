@@ -1,0 +1,31 @@
+{
+    "AS_Segment_1a3d11d86bb54e2893ff56ac9c9fd6b5": {
+        "id": "AS_Segment_1a3d11d86bb54e2893ff56ac9c9fd6b5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmHotelsList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "3440be60cceb47b58a5008b5720aaa81"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___4fd945596e9d4acfa50893f148a4abd2",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "testAnim",
+            "display": "testAnim",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

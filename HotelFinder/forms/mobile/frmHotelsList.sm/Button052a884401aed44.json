@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se7162358cf74a118e9cc84a74adc128",
+    "_text_": "Take a Tour!",
+    "_top_": {
+        "type": "string",
+        "value": "40%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "se2134d085a34bb991f245c6a82caf18",
+    "id": "Button052a884401aed44",
+    "info": null,
+    "isvisible": true,
+    "kuid": "89dd6d91ba6b45b2b2b93d4ee95b1bca",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_7bd2993bfe10447b9e3f6bfb567566a4",
+    "parent": "flxDetails",
+    "pf": "frmHotelsList",
+    "wType": "Button",
+    "zindex": 1
+}

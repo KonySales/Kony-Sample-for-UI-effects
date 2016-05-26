@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "99%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s01a92bf657c40679c49a9ff8ddd4306",
+    "_text_": "Map",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s5a33d02b65f4ba5935b549d289fe981",
+    "id": "btnMap",
+    "info": null,
+    "isvisible": true,
+    "kuid": "3e3388a5a7734196a75cddfd8072f8c3",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_e68f1c8df49446fb9aa6bef1349837b0",
+    "parent": "FlexContainer0ca57192d1b6b4a",
+    "pf": "frmHotelsList",
+    "wType": "Button"
+}

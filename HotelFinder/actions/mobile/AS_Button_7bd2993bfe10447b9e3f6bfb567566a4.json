@@ -1,0 +1,17 @@
+{
+    "AS_Button_7bd2993bfe10447b9e3f6bfb567566a4": {
+        "id": "AS_Button_7bd2993bfe10447b9e3f6bfb567566a4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmHotelsList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "3440be60cceb47b58a5008b5720aaa81"
+        },
+        "actions": []
+    }
+}

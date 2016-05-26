@@ -1,0 +1,31 @@
+{
+    "AS_Button_e68f1c8df49446fb9aa6bef1349837b0": {
+        "id": "AS_Button_e68f1c8df49446fb9aa6bef1349837b0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmHotelsList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "3440be60cceb47b58a5008b5720aaa81"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__e7f41348d3814e8c8cdb53c8c5185829",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "docSearchResultsMode=\"map\";\nfrmHotelsList.btnMap.skin = sknBtnFocus;\nfrmHotelsList.btnList.skin = sknBtnMapNonFocus;\n//flxHotelCard.Map01357589b5f2747.address={\"location\" : \" Grand Cypress Blvd, Orlando, United States\"};\n",
+            "parentId": null,
+            "callbackType": null
+        }, {
+            "id": "INVOKE_FUNCTION___a9dc8225a29742e0974eeeb62e8e642a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "transform_Card",
+            "display": "transform_Card",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

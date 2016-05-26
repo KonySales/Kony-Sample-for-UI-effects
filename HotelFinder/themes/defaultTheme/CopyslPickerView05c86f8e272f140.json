@@ -1,0 +1,16 @@
+{
+  "background_color": "13e600ff",
+  "bg_type": "one",
+  "border_color": "000000ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "font_color": "000000ff",
+  "font_name": "Helvetica",
+  "font_size": 156,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "isDefaultSkin": false,
+  "kuid": "scea4c244352491eb8a8bd6e5d61d9af",
+  "wType": "PickerView"
+}
